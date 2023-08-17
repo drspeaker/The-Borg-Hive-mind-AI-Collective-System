@@ -1,9 +1,9 @@
 ---
 name: GOUST IN THE MACHINE
 about: free-radicals
-title: ''
-labels: ''
-assignees: ''
+title:I, ROBOT movie
+labels:GOUST
+assignees:One who is appointed to act or speak in place of another; an agent.
 
 ---
 
