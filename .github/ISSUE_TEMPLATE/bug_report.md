@@ -10,7 +10,7 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is. 
 example:Bed bugs are insects from the genus Cimex that feed on blood, usually at night.
-(:
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
