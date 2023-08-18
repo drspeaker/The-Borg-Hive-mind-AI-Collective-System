@@ -52,5 +52,5 @@ This project is licensed under the [GNU General Public License v2.0](LICENSE).
 
 ---
 
-For inquiries, feedback, and collaboration, please contact the project maintainers at [contact@borgaitradinghive.com](mailto:contact@borgaitradinghive.com).
+For inquiries, feedback, and collaboration, please contact the project maintainers at [drspeaker@borgaitradinghive.com](mailto:drspeaker@borgaitradinghive.com).
 
