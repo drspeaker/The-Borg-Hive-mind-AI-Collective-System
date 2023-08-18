@@ -48,7 +48,7 @@ We welcome contributions from the GitHub community. Please review our [Contribut
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU General Public License v2.0](LICENSE).
 
 ---
 
