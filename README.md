@@ -52,5 +52,5 @@ This project is licensed under the [GNU General Public License v2.0](LICENSE).
 
 ---
 
-For inquiries, feedback, and collaboration, please contact the project maintainers at [drspeaker@.com](mailto:drspeaker@.com).
+For inquiries, feedback, and collaboration, please contact the project maintainers at [drspeaker@Yahoo.com](mailto:drspeaker@Yahoo.com).
 
