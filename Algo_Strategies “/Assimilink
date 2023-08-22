@@ -1,5 +1,5 @@
 Assimilink.md
-# Borg_Queen_AIpy
+# Borg_Queen_AI.py
 
 class BorgQueenAI:
     def __init__(self, is_redundant=False):
