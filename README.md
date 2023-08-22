@@ -10,7 +10,7 @@ The-Borg-Hive-mind-AI-Collective-Systems is organized into several main sections
 
 2. [Algo Strategies](./Algo_Strategies): Implementation of various algorithmic trading strategies inspired by BreadcrumbsThe-Borg-Hive-mind-AI-Collective-Systemsd collaborative decision-making process.
 
-3. [The-Borg-Hive-mind-AI-Collective-Systems Technology](./The-Borg-Hivemind-AI-Collective-Systems Technology): Exploration of hardware and software considerations for creating a high-performance trading system, including GPU acceleration, parallel computing, and more.
+3. [The-Borg-Hive-mind-AI-Collective-Systems Technology](./The-Borg-Hive-mind-AI-Collective-Systems Technology): Exploration of hardware and software considerations for creating a high-performance trading system, including GPU acceleration, parallel computing, and more.
 
 4. [Assimilink](./Assimilink): Development of an AI system that serves as the Borg Queen for the trading hive, overseeing and coordinating trading algorithms.
 
@@ -52,5 +52,5 @@ This project is licensed under the [GNU General Public License v2.0](LICENSE).
 
 ---
 
-For inquiries, feedback, and collaboration, please contact the project maintainers at [drspeaker@borgaitradinghive.com](mailto:drspeaker@borgaitradinghive.com).
+For inquiries, feedback, and collaboration, please contact the project maintainers at [drspeaker@.com](mailto:drspeaker@.com).
 
