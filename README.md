@@ -12,7 +12,7 @@ The-Borg-Hive-mind-AI-Collective-System is organized into several main sections,
 
 3. [The-Borg-Hive-mind-AI-Collective-Systems Technology](./The-Borg-Hive-mind-AI-Collective-System Technology): Exploration of hardware and software considerations for creating a high-performance trading system, including GPU acceleration, parallel computing, and more.
 
-4. [Assimilink](./Assimilink): Development of an AI system that serves as the Borg Queen for the trading hive, overseeing and coordinating trading algorithms.
+4. [Assimilink](Algo_Strategies/assimilink): Development of an AI system that serves as the Borg Queen for the trading hive, overseeing and coordinating trading algorithms.
 
 5. [NVSwitch Communication](./NVSwitch_Communication): Investigation and implementation of high-bandwidth communication mechanisms between different trading algorithms.
 
