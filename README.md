@@ -14,7 +14,9 @@ The-Borg-Hive-mind-AI-Collective-System is organized into several main sections,
 
 4. [Assimilink](Algo_Strategies/assimilink): Development of an AI system that serves as the Borg Queen for the trading hive, overseeing and coordinating trading algorithms.
 
-5. [NVSwitch Communication](./NVSwitch_Communication): Investigation and implementation of high-bandwidth communication mechanisms between different trading algorithms.
+5. [NVSwitch Communication](Algo_Strategies
+/NVSwitch_Communication
+): Investigation and implementation of high-bandwidth communication mechanisms between different trading algorithms.
 
 6. [Trading Strategies](./Trading_Strategies): Implementation of specific trading strategies, including adaptive portfolio allocation, risk management, event-driven trading, and more.
 
