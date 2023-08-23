@@ -16,7 +16,7 @@ The-Borg-Hive-mind-AI-Collective-System is organized into several main sections,
 
 5. [NVSwitch Communication](Algo_Strategies/NVSwitch_Communication): Investigation and implementation of high-bandwidth communication mechanisms between different trading algorithms.
 
-6. [Trading Strategies](./Trading_Strategies): Implementation of specific trading strategies, including adaptive portfolio allocation, risk management, event-driven trading, and more.
+6. [Trading Strategies](Algo_Strategies/Trading_Strategies): Implementation of specific trading strategies, including adaptive portfolio allocation, risk management, event-driven trading, and more.
 
 7. [Market Analysis](./Market_Analysis): Analysis of historical market data, pattern recognition, trend identification, and sentiment analysis to enhance trading strategies.
 
