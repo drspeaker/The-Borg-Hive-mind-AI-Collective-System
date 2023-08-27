@@ -1,6 +1,6 @@
 # GPU Acceleration in AI
 
-![GPU](NVIDIA-researchers-use-AI-to-design-better-arithmetic-circuits-that-power-our-AI-chips.gif)
+![GPU](R(1).jpg
 
 ## Introduction
 
