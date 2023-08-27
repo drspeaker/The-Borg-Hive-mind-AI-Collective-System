@@ -1,6 +1,6 @@
 # GPU Acceleration in AI
 
-![GPU]/Algo_Strategies/Borg_Hive_Technology\images\(NVIDIA-researchers-use-AI-to-design-better-arithmetic-circuits-that-power-our-AI-chips.gif)
+![GPU]/images\(NVIDIA-researchers-use-AI-to-design-better-arithmetic-circuits-that-power-our-AI-chips.gif)
 
 ## Introduction
 
