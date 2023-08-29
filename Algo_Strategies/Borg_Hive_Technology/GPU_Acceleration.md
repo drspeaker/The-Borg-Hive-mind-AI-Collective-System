@@ -1,7 +1,6 @@
 # GPU Acceleration in AI
 
-![GPU]![R (1)](https://github.com/drspeaker/The-Borg-Hive-mind-AI-Collective-System/assets/102740916/60a8ce97-ed85-4252-b54a-7d479a64279e)
-
+![GPU]!
 
 ## Introduction
 
