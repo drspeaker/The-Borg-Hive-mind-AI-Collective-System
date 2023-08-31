@@ -8,7 +8,7 @@ The-Borg-Hive-mind-AI-Collective-System is a groundbreaking project that combine
 
 The-Borg-Hive-mind-AI-Collective-System is organized into several main sections, each focusing on a specific aspect of the project:
 
-1. [Documentation](./Documentation): Comprehensive guides, instructions, and explanations for setting up and using The-Borg-Hive-mind-AI-Collective-System
+1. [Documentation](./Documentation.md): Comprehensive guides, instructions, and explanations for setting up and using The-Borg-Hive-mind-AI-Collective-System
 
 2. [Algo Strategies](./Algo_Strategies): Implementation of various algorithmic trading strategies inspired by The-Borg-Hive-mind-AI-Collective-System collaborative decision-making process.
 
