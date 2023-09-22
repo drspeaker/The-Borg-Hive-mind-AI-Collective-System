@@ -1,5 +1,5 @@
 The-Borg-Hive-mind-AI-Collective-System    DRAF
-![The-Borg](queen.jpg)
+
 ![queen](https://github.com/drspeaker/The-Borg-Hive-mind-AI-Collective-System/assets/102740916/e2d4286f-3648-4462-9470-68a6113ec557)
 
 The-Borg-Hive-mind-AI-Collective-System is a groundbreaking project that combines the strategic insights of the Borg Queen and the collective intelligence of a drone AI hive mind to revolutionize financial market trading. This open-source initiative aims to develop a powerful and adaptable system that leverages AI-driven strategies, advanced data analysis, and cutting-edge technology to optimize trading performance and profitability.
@@ -8,7 +8,7 @@ The-Borg-Hive-mind-AI-Collective-System is a groundbreaking project that combine
 
 The-Borg-Hive-mind-AI-Collective-System is organized into several main sections, each focusing on a specific aspect of the project:
 
-1. [Documentation](./Documentation): Comprehensive guides, instructions, and explanations for setting up and using The-Borg-Hive-mind-AI-Collective-System
+1. [Documentation](./Documentation.md): Comprehensive guides, instructions, and explanations for setting up and using The-Borg-Hive-mind-AI-Collective-System
 
 2. [Algo Strategies](./Algo_Strategies): Implementation of various algorithmic trading strategies inspired by The-Borg-Hive-mind-AI-Collective-System collaborative decision-making process.
 
